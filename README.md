@@ -1,8 +1,9 @@
 # Digital Image Processing:
  <br />
- Poster:
-![](LBPH_POSTER.jpg)<br />
-![](img33.jpeg)<br />
-![](img44.jpeg)<br />
-![](img22.jpeg)<br />
-![](img11.jpeg)<br />
+
+![](LBPH_POSTER.jpg)
+
+![](img33.jpeg)
+![](img44.jpeg)
+![](img22.jpeg)
+![](img11.jpeg)
